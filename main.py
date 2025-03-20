@@ -13,7 +13,7 @@ def print_hi(name):
 # Press the green button in the gutter to run the script.
 if __name__ == '__main__':
     root = Tk()
-    myLabel = Label(root, text="Hello CSCI 6651 Python Class!")
+    myLabel = Label(root, text="Hello CSCI 6651 Python Class!!")
     myLabel.pack()
     root.mainloop()
 
